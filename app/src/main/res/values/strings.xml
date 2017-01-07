@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Learn Sql</string>
+
+    <string name="signUp">สมัครสมาชิก</string>
+
 </resources>
