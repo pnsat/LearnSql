@@ -2,5 +2,8 @@
     <string name="app_name">Learn Sql</string>
 
     <string name="signUp">สมัครสมาชิก</string>
+    <string name="haveSpace">กรุณากรอก ทุกช่องค่ะ</string>
+    <string name="userFalse">ไม่มี User นี้ในฐานข้อมูล</string>
+    <string name="passFalse">Password ผิด กรุณา ลองใหม่</string>
 
 </resources>
