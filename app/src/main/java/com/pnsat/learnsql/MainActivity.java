@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
     //explicit
 
     private Button signInButton, signUpButton;
+    private MyManage myManage;
+
 
 
 
@@ -19,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        myManage = new MyManage(MainActivity.this);
+
 
         bindwidget();
 
